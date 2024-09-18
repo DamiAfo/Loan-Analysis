@@ -80,7 +80,7 @@ Summary Insights:
 The report contains two pages, necessary filters were added to aid interaction with the visualizations.
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/dc00a399-9d80-4107-8dfa-20e8da17b7b3/4e61290049a6cd61e62b?experience=power-bi) 
 
-### Conclusion and Recommendations
+### Recommendations
 Based on the analysis, I recommend the following:
 1. Expand Loan Options: Given the strong demand for debt consolidation loans, it is best to broaden the loan portfolio to incorporate other in-demand types like home improvement loans.
 2. Optimize for Seasonal Peaks: Analyze application trends from the peak months of November and December to design precision-targeted marketing campaigns and promotions that effectively boost applicant numbers during these high-traffic periods.
