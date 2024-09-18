@@ -40,6 +40,9 @@ The first objective is to give a detailed analysis of the dataset through visual
 6.	Created a table visual to show customers state of residence against total applications, total loan amount and total repayment.
 7.	Employment Length Analysis: developed a column chart to visualize employee tenure.
 
+![](Overview.png)
+
+
 
 The second objective was to analyze the data and evaluate the lending activities in relation to the observed loan defaults. To do this we need to distinguish between Good and Bad loans based on certain criteria.
 I created a group using the loan status column and categorized “Fully” and “Current” under Good Loan while others fell under Bad Loan. 
@@ -49,6 +52,9 @@ The following were analyzed:
 3.	Loan Grade Analysis: Developed a column chart to compare the loan grade using the grouped loan status.
 4.	Created a table visual to expatiate the grouped loan status under loan purposes, in reference to total applications, total loan amount and total repayment. 
 5.	Home Ownership Analysis: Utilized a bar chart to analyze and visualize home ownership data in relation to loan status.
+
+![](Summary.png)
+
 
 
 Insights:
@@ -71,7 +77,9 @@ Summary Insights:
 -	Rent homeowners defaults the most.
 
 ### Visualization:
-The report contains two pages. you can interact with the report [here]
+The report contains two pages, necessary filters were added to aid interaction with the visualizations.
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/dc00a399-9d80-4107-8dfa-20e8da17b7b3/4e61290049a6cd61e62b?experience=power-bi) 
+
 ### Conclusion and Recommendations
 Based on the analysis, I recommend the following:
 1. Expand Loan Options: Given the strong demand for debt consolidation loans, it is best to broaden the loan portfolio to incorporate other in-demand types like home improvement loans.
